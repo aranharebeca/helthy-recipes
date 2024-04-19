@@ -1,0 +1,47 @@
+*{
+ margin:0;
+ padding:0;
+ box-sizing:border-box;
+}
+span{
+color:#5EEAD4;
+}
+a{
+  font-size:24px;
+  padding:16px;
+  width:700;
+  color:#EBF1FB;
+}
+button{
+  font-size:24px;
+  width:202;
+  border-radius:8px;
+  background-color:#5EEAD4;
+  color:#0B0C0E;
+  border-color:#5EEAD4;
+  border-style: solid;
+  border-width:9px;
+}
+buttom:hover{
+  background-color:#5EEAD4;
+}
+h1{
+  width:700;
+  font-size:64px;
+  font-family:'Beth Ellen',sans-serif;
+  color:#EBF1FB;
+}
+body{
+  font-family:'Spectral',sans-serif;
+  background-image:url(https://i.ibb.co/RbvJ4y3/background-image.png);
+  background-repeat: no-repeat;
+  text-align:center; 
+  padding: 4px 3.01rem 390px;
+  color:#EBF1FB;
+
+}
+p{
+  font-family:'Spectral',sans-serif;
+  padding: 24px;
+  font-size:20px;
+}
